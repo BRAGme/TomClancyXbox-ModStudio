@@ -1,3 +1,13 @@
+> ### This repository has moved
+>
+> The Xbox tool now lives in the combined repository, alongside the
+> PlayStation 2 and PC ones:
+>
+> **https://github.com/BRAGme/TomClancyModStudio** — in [`xbox/`](https://github.com/BRAGme/TomClancyModStudio/tree/master/xbox)
+>
+> This repository is archived and read-only. Its full history came across
+> with the move, and the v1.0 release below still works.
+
 # Tom Clancy Xbox Mod Studio
 
 A windowed mod tool for the Tom Clancy games on the original Xbox. Point it at
